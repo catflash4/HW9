@@ -39,5 +39,6 @@ public class Main {
             reverseFullName[j] = temp;
         }
         System.out.print(reverseFullName);
+
     }
 }
